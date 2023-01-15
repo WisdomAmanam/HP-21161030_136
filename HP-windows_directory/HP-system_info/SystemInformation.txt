@@ -1,0 +1,7 @@
+wmic:\cli>/output:myApps.txt product get name, version
+diskpart
+chkdsk
+getmac
+ipconfig
+exit
+SystemInfo
