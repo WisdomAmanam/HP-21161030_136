@@ -1,0 +1,6 @@
+Tasklist
+start notepad
+Taskkill /PID 3008
+net start 
+
+driverquery
