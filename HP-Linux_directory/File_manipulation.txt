@@ -1,0 +1,6 @@
+mkdir folder1 folder2 folder3
+pwd - In (Linux) it print working directory while in (Windows) it writes to standard output the full path name of your directory.
+ls -  In (Linux) it list contents that are inside the current directory while in (Windows) it list contents that are inside the working directory
+cat - In (Linux) it reads data from the file and gives their content as output while
+cp - In (Linux) copy file from one directory to another directory  
+touch - In (Linux) it change the date and time of a file to current time-stamp while in (Windows) it modifies date of computer files or directory
