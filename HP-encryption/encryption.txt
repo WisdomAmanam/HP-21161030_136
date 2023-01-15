@@ -1,0 +1,7 @@
+Type nul> encrypted.txt
+cipher /E
+attrib +s +h +r /s /d
+cipher /E "C:desktop\bash"
+attrib -s -h -r /s /d C:desktop\bash
+
+ 
