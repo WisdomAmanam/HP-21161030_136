@@ -1,0 +1,4 @@
+Type nul> change_me.doc
+ren change_me rename_file
+copy rename_file.doc
+Type nul> myPresentation.ppt
