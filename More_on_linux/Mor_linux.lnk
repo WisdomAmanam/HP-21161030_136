@@ -1,0 +1,4 @@
+pwd
+mkdir
+rmdir  This remove file or directory
+rm -r  Remove file or directory without moving them to Trash or Recycle Bin
