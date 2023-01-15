@@ -1,0 +1,4 @@
+ls -l
+ls -a
+cd tmp\directory mkdir my_first_directory
+my_first_directory> notepad heritagePoly
